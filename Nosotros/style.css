@@ -1,0 +1,67 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.p1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo1{
+    width: 70px;
+}
+
+.bsc{
+    border-radius: 50px;
+    height: 30px;
+    width: 1000px;
+}
+
+.listbr{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.dc{
+    list-style: none;
+}
+
+#carro{
+    height: 25px;
+}
+
+.ingre{
+    display: flex;
+}
+
+#persona{
+    width: 10px;
+    margin: 10px;
+}
+
+.linea{
+    border: 0,5px solid black;
+}
+
+.linea2{
+    height: 0px;
+    width: 80%;
+    border: 2px solid black;
+}
+
+.librosimp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+}
+
+.text{
+    text-align: center;
+}
+
+.divtot{
+    display: flex;
+    
+}

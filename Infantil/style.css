@@ -1,0 +1,103 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.p1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo1{
+    width: 70px;
+}
+
+.bsc{
+    border-radius: 50px;
+    height: 30px;
+    width: 1000px;
+}
+
+.listbr{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.dc{
+    list-style: none;
+}
+
+#carro{
+    height: 25px;
+}
+
+.ingre{
+    display: flex;
+}
+
+#persona{
+    width: 10px;
+    margin: 10px;
+}
+
+.linea{
+    border: 0,5px solid black;
+}
+
+.linea2{
+    height: 0px;
+    width: 80%;
+    border: 2px solid black;
+}
+
+.librosimp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+}
+
+#imganun{
+    height: 650px;
+    box-shadow: 3px 3px 5px 3px;
+    background-color: gray;
+}
+
+.anuncio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.categoria1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linea2{
+    height: 0px;
+    width:85%;
+    border: 2px solid black;
+}
+
+.p3{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+
+.imgn{
+    height: 200px;
+    width: 200px;
+    margin: 25px;
+    align-content: center;
+    text-align: center;
+}
+
+.fnimg{
+    height: 200px;
+    width: 200px;
+    box-shadow: 2px 2px 5px 2px;
+}

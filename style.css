@@ -1,0 +1,146 @@
+
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.p1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo1{
+    width: 70px;
+}
+
+.bsc{
+    border-radius: 50px;
+    height: 30px;
+    width: 1000px;
+}
+
+
+.listbr{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.dc{
+    list-style: none;
+}
+
+#carro{
+    height: 25px;
+}
+
+.ingre{
+    display: flex;
+}
+
+#persona{
+    width: 10px;
+    margin: 10px;
+}
+
+.linea{
+    border: 0,5px solid black;
+}
+
+.cent{
+    text-align: center;
+}
+#med{
+    background-image:url(succulents-1.jpg);
+    width: 500px;
+    height: 525px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    background-size: cover;
+}
+
+#med:hover{
+    background-image: url(succulents-2.jpg);
+}
+
+.anun{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.imganun{
+    height: 650px;
+    box-shadow: 3px 3px 5px 3px;
+    color: gray;
+}
+
+.libros{
+    width: 30%;
+}
+
+.añadir{
+    display: flex;
+}
+
+.categoria1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linea2{
+    height: 0px;
+    width:85%;
+    border: 2px solid black;
+}
+
+.p3{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+
+.imgn{
+    height: 200px;
+    width: 200px;
+    margin: 25px;
+    align-content: center;
+    text-align: center;
+}
+
+.fnimg{
+    height: 200px;
+    width: 200px;
+    box-shadow: 2px 2px 5px 2px;
+}
+
+#alerta{
+    box-shadow: 2px 2px 3px 2px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    margin: -130px 0;
+    background-color: white;
+    height: 110px;
+    
+}
+
+.alerth3{
+    font-size: 40px;
+    margin: -2px;
+}
+
+#alertbtn{
+    height: 50px;
+    width: 120px;
+    margin: 20px;
+    background-color: rgb(18, 221, 153);
+    color: wheat;
+    font-size: 20px;
+}
+
+#carro{
+    height: 25px;
+}

@@ -1,0 +1,83 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.p12{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo12{
+    width: 70px;
+}
+
+.bsc2{
+    border-radius: 50px;
+    height: 30px;
+    width: 1000px;
+}
+
+.listbr2{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.dc2{
+    list-style: none;
+}
+
+#carro2{
+    height: 25px;
+}
+
+.ingre2{
+    display: flex;
+}
+
+#persona2{
+    width: 10px;
+    margin: 10px;
+}
+
+.linea2{
+    border: 0,5px solid black;
+}
+
+.linea3{
+    height: 0px;
+    width:85%;
+    border: 2px solid black;
+}
+
+.preventa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+}
+
+.anuncio2{
+    margin: 0px 100px;
+    
+}
+
+.p4{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.imgn2{
+    height: 200px;
+    width: 200px;
+    margin: 25px;
+    align-content: center;
+    text-align: center;
+}
+
+.fnimg2{
+    height: 200px;
+    width: 200px;
+    box-shadow: 2px 2px 5px 2px;
+}
